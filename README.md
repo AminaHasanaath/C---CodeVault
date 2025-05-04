@@ -30,18 +30,16 @@ It's a mix of fun and functional projects to demonstrate my problem-solving skil
 
 ### 🔍 Features
 
-- **Dynamic Memory Allocation**: Explore the power of `malloc`, `calloc`, and `free`.
-- **Structures & Pointers**: Master the use of structures and pointers in various scenarios.
-- **Arrays & Strings**: Handle basic and multi-dimensional arrays and string manipulations.
-- **File Handling**: Some projects use file I/O for storing and retrieving data.
+- Dynamic Memory Allocation.
+- Structures & Pointers.
+- Arrays & Strings.
+- File Handling.
 
 ---
 
 ### 🧑‍💻 Tech Stack
 
-- **Programming Language**: C  
-- **Key Concepts**: Pointers, Structures, Functions, Memory Management, Dynamic Allocation, and more.
-
+- Programming Language : C 
 ---
 
 ### 🚀 How to Use
@@ -63,7 +61,5 @@ It's a mix of fun and functional projects to demonstrate my problem-solving skil
 
 ---
 
-> Built with ❤️ as a celebration of my C programming journey.
+> Its just the 1% of the Dev Mind coming soon!.
 ```
-
-Let me know if you want GitHub profile badges or project thumbnails added!
