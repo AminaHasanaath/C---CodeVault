@@ -2,7 +2,8 @@
 7. Dynamic Student Record Allocator.  
 > - Ask user for number of students.  
 > - Use malloc() to dynamically create space.  
-> - Store and display their details using structures and pointers.*/
+> - Store and display their details using structures and pointers.
+Developed By Amina Hasanaath*/
 
 #include<stdio.h>
 #include<stdlib.h>
