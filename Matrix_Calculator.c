@@ -1,5 +1,5 @@
 /* 
->4. Matrix Calculator using 2D arrays.  
+>5. Matrix Calculator using 2D arrays.  
 > - Perform addition, subtraction, and multiplication via functions.
 Developed By Amina Hasanaath  */
 
