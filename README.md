@@ -9,12 +9,17 @@ From, ATM simulators to car rental systems—all built using C! It's a mix of fu
 
 ### Projects Included 🛠️
 
-1. Library Book Management System 📚 
-2. Student Record System 🎓
-3. Mini ATM Simulator 💳
-4. Car Rental System 🚗
-5. Password Validator 🔒
-6. Tic-Tac-Toe Game 🎮
+- 🧾 Billing System  
+- ❓ Quiz App  
+- 📚 Library Book Management System  
+- ➕ Matrix Calculator  
+- 🧠 Sort Names  
+- 🎓 Student Record System  
+- 💳 Mini ATM Simulator  
+- 🚗 Car Rental System  
+- 🔒 Password Validator  
+- 🎮 Tic-Tac-Toe Game  
+
 ---
 
 ### Features 🔍
