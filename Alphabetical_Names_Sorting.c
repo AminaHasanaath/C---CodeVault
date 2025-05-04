@@ -1,4 +1,4 @@
-/* 4. Create a program to sort names using pointers and arrays.  
+/* 5. Create a program to sort names using pointers and arrays.  
 > - Input N names.  
 > - Use pointer logic to sort and display in alphabetical order.
 Developed by Amina Hasanaath
