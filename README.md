@@ -1,3 +1,5 @@
+> Its just the 1% of the Dev Mind coming soon!.
+```
 ```markdown
 # 🌟 C CodeVault Mini Project 🚀
 
@@ -61,5 +63,4 @@ It's a mix of fun and functional projects to demonstrate my problem-solving skil
 
 ---
 
-> Its just the 1% of the Dev Mind coming soon!.
-```
+
