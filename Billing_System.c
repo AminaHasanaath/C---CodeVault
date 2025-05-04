@@ -1,4 +1,4 @@
-/*  Build a Billing System for a small store.  
+/*1. Build a Billing System for a small store.  
 > - Using control statements to loop through items, take input, calculate total + discount.  
 > - Display final bill with tax and itemized list.
 Developed by Amina Hasanaath*/
