@@ -70,8 +70,8 @@ It's a mix of fun and functional projects to demonstrate my problem-solving skil
 
 ### Contact 📬
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/amina-hasanaath-7033a1309)
-- **GitHub**: [Your GitHub Profile](https://github.com/AminaHasanaath)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/amina-hasanaath-7033a1309)
+- **GitHub**: [GitHub Profile](https://github.com/AminaHasanaath)
 
 ---
 
