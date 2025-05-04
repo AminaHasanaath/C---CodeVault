@@ -3,7 +3,7 @@
 ```markdown
 # 🌟 C CodeVault Mini Project 🚀
 
-> A vault of fun, functional, and foundational C projects — built with passion and practice!
+> A vault of functional, and foundational C projects — built with hardwork and practice!
 
 ---
 
