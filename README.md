@@ -63,4 +63,18 @@ It's a mix of fun and functional projects to demonstrate my problem-solving skil
 
 ---
 
+4. **Contribute**:
+   - Feel free to fork the repository, create a branch, and submit pull requests.
+   - Open an issue if you find any bugs or want to suggest improvements!
+
+
+### Contact 📬
+
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/amina-hasanaath-7033a1309)
+- **GitHub**: [Your GitHub Profile](https://github.com/AminaHasanaath)
+
+---
+
+> "C is the backbone of programming, and these projects are just the beginning of my coding journey. Stay tuned for more!" 🌟
+```
 
