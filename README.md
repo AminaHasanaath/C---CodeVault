@@ -1,4 +1,4 @@
-> Its just the 1% of the Dev Mind coming soon!.
+> Just 1% of the Dev Mind… The rest is coming soon! 🔥.
 ```
 ```markdown
 # 🌟 C CodeVault Mini Project 🚀
