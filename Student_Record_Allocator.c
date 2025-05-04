@@ -1,5 +1,5 @@
 /* 
-> Dynamic Student Record Allocator.  
+7. Dynamic Student Record Allocator.  
 > - Ask user for number of students.  
 > - Use malloc() to dynamically create space.  
 > - Store and display their details using structures and pointers.*/
